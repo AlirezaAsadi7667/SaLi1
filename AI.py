@@ -12,6 +12,7 @@ class AI:
         self.pick_handler = PickHandler()
         self.turn_handler = TurnHandler()
         #bos bos much
+        #much much
     def pick(self, world: World):
         """
         this function is called in the beginning for deck picking and pre process

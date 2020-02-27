@@ -13,6 +13,8 @@ class AI:
         self.turn_handler = TurnHandler()
         #bos bos much
         #much much
+        #ok3
+        self.ok=0
     def pick(self, world: World):
         """
         this function is called in the beginning for deck picking and pre process
